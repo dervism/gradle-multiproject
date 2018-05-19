@@ -1,2 +1,4 @@
 # gradle-multiproject
-Gradle multi-project build demo
+
+A demo showing how to set up a Gradle multi-project.
+
